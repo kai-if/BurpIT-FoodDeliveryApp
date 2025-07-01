@@ -1,0 +1,7 @@
+101 kaif Veg_Pizza 199.00 haldwani
+101 kaif Cheese_Burger 99.00 haldwani
+10 sagar_negi Fries 89.00 badowala
+10 sagar_negi Water_Bottle 20.00 kargi
+10 sagar_negi Lava_Cake 89.00 badowala
+15 ritik Paneer_Wrap 129.00 kargi
+15 ritik Boba_Tea 119.00 gehu

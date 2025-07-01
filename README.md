@@ -87,7 +87,7 @@ To get started with BURPIT on your local machine:
 
 ### 1. Clone the Repository
 
-- git clone https://github.com/SagarNegi10/BURP-IT.git
+- git clone https://github.com/kai-if/BurpIT-FoodDeliveryApp.git
 
 - cd burpit
 
